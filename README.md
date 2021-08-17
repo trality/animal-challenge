@@ -37,6 +37,6 @@ Individual Goals include:
 
 ## Deliverable
 
-Your deliverable is `animal-challenge.zip`. E-mail it to christopher@trality.com. The zip-file should include the updated folders and files
+Your deliverable is `animal-challenge.zip`. E-mail it to jakub@trality.com. The zip-file should include the updated folders and files
 of this git repository minus `.git`, `.dist` and `node_modules` folders. In addition to achievement of goals, we will evaluate coding style, suitable usage of React in general and your implementation of state handling. 
 
